@@ -22,7 +22,7 @@
       :absolute="!fixed"
       app
     >
-      <span> Link to my Github: <a target="_blank" href="https://github.com/aedawes/cp3.git">aedawes</a>
+      <span> Link to my Github: <a target="_blank" href="https://github.com/aedawes">aedawes</a>
       </span>
     </v-footer>
   </v-app>
