@@ -15,7 +15,7 @@
                     <label> Email </label>
                     <v-text-field v-model="form.email" label="email@foo.com" required />
                     <label> Phone </label>
-                    <v-text-field v-model="form.phonenumber" label="(123)456-7890" required />
+                    <v-text-field v-model="form.phonenumber" label="(123)456-789" required />
                     <label> Website </label>
                     <v-text-field v-model="form.website" label="www.example.com" required />
                     <label> Address </label>

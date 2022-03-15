@@ -11,7 +11,7 @@
                     <h2> Welcome, {{ form.yourname }} </h2>
                     <v-text-field v-model="form.yourname" class="input" label="Enter your name" required />
                     <v-btn class="button" @click="goToIndex()"> Get Started </v-btn>
-                    <v-btn class="button" @click="goToExamples()"> See Examples </v-btn>
+                    <v-btn class="button" @click="goToExamples()"> Get Started </v-btn>
                   </v-card-text>
               </v-card>
           </v-col>
